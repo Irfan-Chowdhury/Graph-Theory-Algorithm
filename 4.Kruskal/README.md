@@ -1,0 +1,1 @@
+# Develope a code to find the MSTof the avobe figure using Kruskal's Algorithm
